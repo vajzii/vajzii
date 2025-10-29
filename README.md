@@ -1,4 +1,3 @@
-# 👋 Welcome!
-
 ## 🛠️ Current Project
-- [**Gothaj Client**] (https:/gothaj.top)
+- *Gothaj 4.0 - Client, Website, Backend*
+
