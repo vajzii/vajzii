@@ -1,8 +1,7 @@
 ## ✨ Languages (Ranked)
 - Java
-- C#
+- C#, JavaScript
 - HTML, PHP, CSS
-- JavaScript
 - C++
 
 ## 🛠️ Current Projects
