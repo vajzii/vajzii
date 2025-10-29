@@ -1,4 +1,4 @@
-## ✨ Languages (Ranked)
+## 📚 Language (Ranked)
 - Java
 - C#, JavaScript
 - HTML, PHP, CSS
