@@ -1,4 +1,4 @@
-## 📚 Language (Ranked)
+## 📚 Languages
 - Java
 - C#, JavaScript
 - HTML, PHP, CSS
@@ -7,6 +7,5 @@
 
 
 ## 🛠️ Current Projects
-- *Gothaj 4.0 - Client, Website, Backend*
-- *Semi-Private Projects*
+- *Private Projects (soon to be revealed)
 
