@@ -7,5 +7,5 @@
 
 
 ## 🛠️ Current Projects
-- *Private Projects (soon to be revealed)
+- *Private Projects (soon to be revealed)*
 
